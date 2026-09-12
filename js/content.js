@@ -16,7 +16,6 @@ export async function fetchList() {
                     const level = await levelResult.json();
                     return [
                         {
-                            verifier: '',
                             ...level,
                             path,
                             records: level.records.sort(
