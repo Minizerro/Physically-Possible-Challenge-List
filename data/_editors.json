@@ -1,8 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Minizerro",
+        "link": ""
+    },
+    {
+        "role": "owner",
+        "name": "Joolik",
+        "link": ""
     },
     {
         "role": "admin",
