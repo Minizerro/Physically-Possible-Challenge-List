@@ -108,9 +108,7 @@ export default {
                     <p>
                         the creator of the level must also be the uploader of the level
                     </p>
-                    <p>
-                        Cps rules:
-                    </p>
+                    <h3>CPS rules:</h3>
                     <p>
                       16 clicks in a second
                      </p>
