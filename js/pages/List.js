@@ -119,6 +119,15 @@ export default {
                       A rate of 48 per second in any stint of 5 or more clicks
                      </p>
                      <h3>Record Requirements</h3>
+                     <p>
+                      Cheat indicator must be clearly visible
+                     </p>
+                     <p>
+                      Your FPS must be clearly visible
+                     </p>
+                     <p>
+                      Your CPS must be clearly visible
+                     </p>
                 </div>
             </div>
         </main>
