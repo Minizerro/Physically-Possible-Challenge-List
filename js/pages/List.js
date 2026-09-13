@@ -111,7 +111,9 @@ export default {
                     <p>
                         Cps rules:
                         16 clicks in a second
+                        
                         3 clicks in a frame
+                        
                         A rate of 48 per second in any stint of 5 or more clicks
                     </p>
                      <h3>Record Requirements</h3>
