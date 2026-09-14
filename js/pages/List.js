@@ -108,6 +108,9 @@ export default {
                     <p>
                         the creator of the level must also be the uploader of the level
                     </p>
+                    <p>
+                        There is no existing FPS limit but changing FPS mid level is not allowed
+                    </p>
                     <h3>CPS rules:</h3>
                     <p>
                       16 clicks in a second
